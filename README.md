@@ -12,4 +12,4 @@ I'm a young programmer interested in NLP🤖, oriented object programming💻 an
  
 - Thanks for visiting. 
  
-- Enjoy it!! \o/
+- Enjoy it!! 😆
