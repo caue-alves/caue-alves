@@ -3,7 +3,7 @@
  
 ## I'm Cauê!
  
-I'm a young programmer interested in NLP, oriented object programming and data science. Currently I'm working at Val personal assistaint project, developed in Python, PHP in the back-end and HTML and CSS in the front. I develop in the languages Python, PHP and C#
+I'm a young programmer interested in NLP🤖, oriented object programming💻 and data science💾. Currently I'm working at [Val Personal Assistaint project](https://github.com/caue-alves/Assitente-Pessoal)👩, developed in Python, PHP in the back-end💾 and HTML and CSS in the front☀. I develop in the languages Python, PHP and C#
  
  
 ## About me 
