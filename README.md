@@ -3,7 +3,7 @@
  
 ## 👋 Hello! I'm Cauê!
  
-I'm a young programmer interested in NLP🤖, oriented object programming💻 and data science💾. Currently I'm working at @Val-Assistant 👩 with @Thipigen137, developed in Python, PHP in the back-end💾 and HTML, CSS an Javascript in the front☀. I develop in the languages Python, PHP and C#
+I'm a young programmer interested in NLP🤖, oriented object programming💻 and data science💾. Currently I'm working at @Val-Assistant 👩 with @Thipigen137, developed in Python, PHP in the back-end💾 and HTML, CSS and Javascript in the front☀. I develop in the languages Python, PHP and C#
  
  
 ## Contact
