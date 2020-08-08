@@ -14,4 +14,4 @@ I'm a young programmer interested in NLP🤖, oriented object programming💻 an
  
 - Enjoy it!! 😆
 
-- Don't forgot to take a look at [Val](https://github.com/Val-Assistant/Val-Core) 🤖
+- Don't forgot to take a look at [Val](https://github.com/Val-Assistant/Val-Core) 🤖🧠
