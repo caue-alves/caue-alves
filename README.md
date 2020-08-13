@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://hypescience.com/wp-content/uploads/2017/03/c%C3%B3digo-intelig%C3%AAncia-artificial.jpeg">
+<img align="right" width="350" height="350" src="https://hypescience.com/wp-content/uploads/2017/03/c%C3%B3digo-intelig%C3%AAncia-artificial.jpeg">
  
 ## 👋 Hello! I'm Cauê!
  
