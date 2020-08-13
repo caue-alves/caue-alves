@@ -15,3 +15,5 @@ I'm a young programmer interested in NLP🤖, oriented object programming💻 an
 - Enjoy it!! 😆
 
 - Don't forgot to take a look at [Val](https://github.com/Val-Assistant/Val-Core) 🤖🧠
+
+![Cauê's github stats](https://github-readme-stats.vercel.app/api?username=caue-alves&hide=contribs,prs)
