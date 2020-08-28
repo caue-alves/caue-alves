@@ -1,20 +1,20 @@
-<img align="right" width="350" height="350" src="https://hypescience.com/wp-content/uploads/2017/03/c%C3%B3digo-intelig%C3%AAncia-artificial.jpeg">
- 
-## 👋 Hello! I'm Cauê!
- 
-I'm a young programmer interested in NLP🤖, oriented object programming💻 and data science💾. Currently I'm working at [@Val-Assistant](https://github.com/Val-Assistant) 👩 with [@Thipigen137](https://github.com/Thipiguen137), developed in Python, PHP in the back-end💾 and HTML, CSS and Javascript in the front☀. I develop in the languages Python, PHP and C#
- 
- 
-## Contact
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/caue-alves)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:caue.mendes.rodrigues.alves@gmail.com)
- 
-- Thanks for visiting 😎 
- 
-- Enjoy it!! 😆
+<h1 align="center">Hi 👋, I'm Cauê</h1>
+<h3 align="center">I'm a young programmer interested in oriented object programming and data science</h3>
 
-- Don't forgot to take a look at [Val](https://github.com/Val-Assistant/Val-Core) 🤖🧠
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves" alt="caue-alves" /> </p>
 
-![Cauê's github stats](https://github-readme-stats.vercel.app/api?username=caue-alves&theme=buefy&hide=contribs,prs?&include_all_commits=True&count_private=True)
+- 🔭 I’m currently working on [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caue-alves&layout=compact)](https://github.com/caue-alves/github-readme-stats)
+- 🌱 I’m currently learning **PHP Frameworks and Librarys**
+
+- 🤝 I’m looking for help with [Val Assistant](https://github.com/Val-Assistant/Val-Core)
+
+- 💬 Ask me about **PHP and Python**
+
+- 📫 How to reach me **caue.mendes.rodrigues.alves@gmail.com**
+
+- ⚡ Fun fact **I'm so young (trust me)**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caue-alves&layout=compact&hide=html" alt="caue-alves" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caue-alves&show_icons=true" alt="caue-alves" /></p>
