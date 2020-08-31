@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **PHP Frameworks and Librarys**
 
-- 🤝 I’m looking for help with [Val Assistant](https://github.com/Val-Assistant/Val-Core) and Jaguar Language
+- 🤝 I’m looking for help with [Val Assistant](https://github.com/Val-Assistant/Val-Core) and [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
 
 - 💬 Ask me about **PHP and Python**
 
