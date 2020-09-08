@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
 
-- 🌱 I’m currently learning **PHP Frameworks and Libs**
+- 🌱 I’m currently learning **PHP Frameworks and Librarys**
 
 - 🤝 I’m looking for help with [Val Assistant](https://github.com/Val-Assistant/Val-Core) and [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
 
