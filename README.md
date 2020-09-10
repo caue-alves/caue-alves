@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Cauê</h1>
 <h3 align="center">I'm a young programmer interested in oriented object programming and data science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves" alt="caue-alves" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves&color=blueviolet" alt="caue-alves" /> </p>
 
 - 🔭 I’m currently working on [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
 
