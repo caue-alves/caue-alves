@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **PHP and Python**
 
-- 📫 How to reach me **caue.mendes.rodrigues.alves@gmail.com**
+- 📮 How to reach me **caue.mendes.rodrigues.alves@gmail.com**
 
 - Enjoy😀😎!
 
