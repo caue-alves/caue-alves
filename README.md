@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://hypescience.com/wp-content/uploads/2017/03/c%C3%B3digo-intelig%C3%AAncia-artificial.jpeg">
+<img align="right" width="400" height="400" src="https://www.thiagoprogramador.com/wp-content/uploads/como-acessar-a-pasta-do-htdocs-no-xampp-pelo-terminal-no-mac.jpeg">
 <h1 align="center">Hi 👋, I'm Cauê</h1>
 <h3 align="center">I'm a young programmer interested in oriented object programming and data science</h3>
 
