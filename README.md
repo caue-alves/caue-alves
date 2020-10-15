@@ -1,6 +1,7 @@
 <img align="right" width="350" height="350" src="https://media.tenor.com/images/88b18a70a5fb0819667136fa56bf2906/tenor.gif">
 <h1 align="center">Hi 👋, I'm Cauê</h1>
-<h3 align="center">I'm a young programmer interested in oriented object programming and data science</h3>
+<h3 align="center">I'm a young programmer that develop in Python, C#, PHP and Typescript and like OOP.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves&color=blueviolet" alt="caue-alves" /> </p>
 
