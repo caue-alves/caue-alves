@@ -43,3 +43,5 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caue-alves&show_icons=true&count_private=true" alt="caue-alves" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=caue_alves">
