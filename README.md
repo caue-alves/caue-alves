@@ -15,7 +15,7 @@
 
 - 📮 How to reach me **caue.mendes.rodrigues.alves@gmail.com**
 
-- Enjoy😎!
+- Enjoy 😎!
 
 
 
