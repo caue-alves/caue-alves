@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cauê</h1>
-<h3 align="center">I'm a young programmer that develop in Python, C#, PHP and Typescript and like OOP.
+<h3 align="center">I'm a programmer that develop in Python, C#, PHP and TypeScript. Always trying to learn more.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves&color=blueviolet" alt="caue-alves" /> </p>
