@@ -1,20 +1,4 @@
 <h1>Hi 👋, I'm Cauê</h1>
-<h3>I'm a programmer that develop in Python, C#, PHP and TypeScript.<br> Always trying to learn more.
-</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caue-alves&color=blueviolet" alt="caue-alves" /> </p>
-
-- 🔭 I’m currently working on [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
-
-- 🌱 I’m currently learning **PHP Frameworks and Libs**
-
-- 🤝 I’m looking for help with [Val Assistant](https://github.com/Val-Assistant/Val-Core) and [Jaguar Language](https://github.com/caue-alves/Linguagem-Jaguar)
-
-- 💬 Ask me about **PHP and Python**
-
-- 📮 How to reach me **caue.mendes.rodrigues.alves@gmail.com**
-
-- Enjoy 😎!
 
 ---------------------------------------------------------------------------------------------------------------------
 
