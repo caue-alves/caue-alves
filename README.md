@@ -11,7 +11,6 @@
     <a href="https://medium.com/@caue.mendes.rodrigues.alves" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@caue.mendes.rodrigues.alves" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=caue-alves&theme=dracula&column=7&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
 <p>
 <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caue-alves&layout=compact" alt="caue-alves" /></p>
