@@ -16,5 +16,3 @@
 <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caue-alves&layout=compact" alt="caue-alves" /></p>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caue-alves&show_icons=true&count_private=true" alt="caue-alves" /></p>
